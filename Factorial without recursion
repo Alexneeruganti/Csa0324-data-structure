@@ -6,7 +6,7 @@ int main() {
     printf("Enter a number: ");
     scanf("%d", &num);
 
-    // calculate factorial of the number
+   
     for (i = 1; i <= num; i++) {
         fact *= i;
     }
